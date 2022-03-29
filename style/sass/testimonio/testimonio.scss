@@ -1,0 +1,53 @@
+.content-testimonios{
+	background-color: #f4f4f4;
+	font-family: 'Inter';
+	font-style: normal;
+}
+.content-testimonios-title{
+	font-weight: 300;
+	font-size: 40px;
+	line-height: 48px;
+	letter-spacing: -0.5px;
+	padding-top: 50px;
+}
+
+.testimonios{
+	background-color: #fff;
+	max-width: 950px;
+	width: 100%;
+	max-height: 234px;
+	height: 100%;
+	margin: 50px auto;
+	border: 1px solid #8CFF00;
+}
+
+.testimonios-text {
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	max-width: 637px;
+	padding: 35px 0;
+}
+
+.testimonios-data{
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 32px;
+	padding-bottom: 20px;
+}
+.testimonios-img{
+	margin: 0 auto;
+	border-radius: 50%;
+	border: 2px solid #00DBD1;
+	margin-top: 30px;
+}
+
+.content-testimonios .carousel-indicators li{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background-color: #fff;
+}
+.testimonios-more a{
+	cursor: pointer;
+}

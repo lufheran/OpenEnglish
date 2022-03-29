@@ -1,0 +1,14 @@
+{
+  "name": "openenglish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass styles/sass/main.scss styles/css/style.css -w"
+  },
+  "author": "Felipe Hernández",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

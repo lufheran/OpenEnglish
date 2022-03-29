@@ -1,0 +1,42 @@
+.logo{
+    width: 166px;
+    height: 62px;
+}
+.content-header {
+    height: 132px;
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    align-items: center;
+}
+.text-right{
+    text-align: right;
+}
+.padding-left{
+	padding-left: 50px;
+}
+
+.padding-right{
+	padding-right: 50px;
+}
+.content-button-call{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.button-call{
+	border: 2pt solid #8CFF00;
+	border-radius: 5px;
+	padding: 10px 25px;
+    margin-right: 50px;
+	color: #000;
+	font-size: 20px;
+}
+.button-call:hover{
+	text-decoration: none;
+}
+.button-call i{
+	color: #00E3D8;
+	margin-right: 10px;
+}

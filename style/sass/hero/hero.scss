@@ -1,0 +1,37 @@
+$primary-color: #0078FF;
+.content-hero{
+	height: 100%;
+	max-height: 550px;
+	background-color: #EBF7FF;
+}
+.content-hero img{
+	width: 100%;
+}
+.text-center{
+	text-align: center;
+}
+.hero-title{
+	font-size: 28px;
+	line-height: 40px;
+	font-weight: 400;
+	font-family: 'Poppins';
+	font-style: normal;
+	max-width: 405px;
+	width: 100%;
+	margin: 0 auto;
+	display: grid;
+	align-items: end;
+	padding-bottom: 15px;
+}
+
+.hero-title-two h1{
+	font-size: 60px;
+	line-height: 59px;
+	font-weight: 600;
+	font-family: 'Poppins';
+	font-style: normal;
+}
+.content-hero-text{
+	display: grid;
+	justify-content: start;
+}
