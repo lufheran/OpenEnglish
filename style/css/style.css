@@ -186,6 +186,10 @@
   color: #fff;
 }
 
+.content-time-price img {
+  width: 100%;
+}
+
 .content-testimonios {
   background-color: #f4f4f4;
   font-family: "Inter";
